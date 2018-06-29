@@ -2,7 +2,7 @@
 
 ## About
 
-This is a Udacity Front-end Developer Project. The app built with React and API server was provided by Udacity. This app helps users to manage their reading habit. It allows user to add and search books from the server and catagorize them to 3 shelfs.
+This is a Udacity Front-end Developer Project. The app built with React and API server was provided by Udacity. This app helps users to manage their reading habit. It allows users to add and search books from the server and categorize them into 3 shelves.
 
 ## Getting Started
 
